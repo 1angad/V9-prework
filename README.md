@@ -1,5 +1,7 @@
 # OGRE
 
+Aaron Grizzle, Brian Johnson, Sam Kumar, Rijul Mehta, and Guranggad Singh
+
 ## Overview
 
 This app was created for Rao Casturi's Fall 2023 Software Engineering Class. 
