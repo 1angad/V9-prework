@@ -8,18 +8,12 @@ This app was created for Rao Casturi's Fall 2023 Software Engineering Class.
 
 * [![Swift][swift]][swift-url]
 * [![Firebase][firebase][firebase-url]]
-* [![React][React.js]][React-url]
 
 [swift]: https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png
 [swift-url]: https://www.swift.org/
 
 [firebase]: https://firebase.google.com/static/images/brand-guidelines/logo-standard.png
 [firebase-url]: https://firebase.google.com/
-
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-
-
 
 ## Features
 
