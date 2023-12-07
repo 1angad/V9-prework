@@ -6,8 +6,8 @@ This app was created for Rao Casturi's Fall 2023 Software Engineering Class.
 
 ## Built With
 
-<img src="https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png" alt = "Swift" width="300">
-<img src="https://firebase.google.com/static/images/brand-guidelines/logo-standard.png" alt = "Firebase" width="400">
+* <img src="https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png" alt = "Swift" width="300">
+* <img src="https://firebase.google.com/static/images/brand-guidelines/logo-standard.png" alt = "Firebase" width="400">
 
 ## Features
 
