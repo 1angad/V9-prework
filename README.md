@@ -8,45 +8,30 @@ This app was created for Rao Casturi's Fall 2023 Software Engineering Class.
 
 <img src="https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png" alt = "Swift" width="300">
 <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-standard.png" alt = "Firebase" width="300">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apple_xcode_logo_icon_169562.png" alt = "Xcode" width="300">
 
 ## Features
 
-- 
+- Immediate feedback after taking a quiz.
 
-- Clicking on the Geolocation coordinates launches Google Maps to display the
-  geolocation.
+- Question of the day that adds to your token count if answered correctly.
 
-- The chart is filterable by name based on the current data set (initial load
-  pulls in first 1000 entries).
+- **1,000+** questions from the GRE's three sections:
+  - Quantitative Analysis
+  - Verbal Reasoning
+  - Analytical Writing
 
-- All 45,000 + entries can be queried by name with the "Dig Deep!" search
-  feature.
+- Personalized features such as:
+  - Section Focus
+  - Reminders
+  - Quiz/Study Mode
+  - Timer
+  - Study Pages
 
-- The Filter feature will further filter through search results if the "Dig
-  Deep!" search is active.
+- OGRE integrates an AI companion that provides feedback on the Analytical Writing sections
 
-- Filter and "Dig Deep!" search are case-insensitive.
-
-- Chart is paginated into 50 results at a time, and the previous / next buttons
-  are active only when there are enough entries to use them
-
-- The "Current Dataset" total at bottom is the total number of entries based on
-  the Filter and "Dig Deep!" results. This defaults to the initial 1000 entries
-  pulled on page load.
-
+- Interactive Community consisting of
+  - Community Uploads
+  - Friends & Leaderboard System
+  
 ## Tech Used / Dependencies
-
-- This is a React App boostrapped with CRA
-
-- Add-on packages include: <br>
-
-  1. [Husky](https://www.npmjs.com/package/husky)
-  2. [Lint-Staged](https://www.npmjs.com/package/lint-staged)
-  3. [Escape-String-RegExp](https://www.npmjs.com/package/escape-string-regexp)
-  4. [Prettier](https://www.npmjs.com/package/prettier)
-
-- Color inspiration from: [Palettab](https://palettab.com/)
-
-- Fonts from [Google Fonts](https://fonts.google.com/)
-
-- Icons from [Font Awesome](https://fontawesome.com/)
