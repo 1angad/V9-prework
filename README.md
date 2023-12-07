@@ -9,6 +9,8 @@ This app was created for Rao Casturi's Fall 2023 Software Engineering Class.
 * [![Swift][swift]][swift-url]
 * [![Firebase][firebase]][firebase-url]
 
+* <img src="https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png" alt = "Swift" width="300">
+
 [swift]: https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png
 [swift-url]: https://www.swift.org/
 
