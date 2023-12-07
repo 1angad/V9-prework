@@ -1,10 +1,10 @@
 # OGRE
 
-Aaron Grizzle, Brian Johnson, Sam Kumar, Rijul Mehta, and Guranggad Singh
+Aaron Grizzle, Brian Johnson, Sam Kumar, Rijul Mehta, and Guranggad Singh. Created during Rao Casturi's Fall 2023 Software Engineering Class. 
 
 ## Overview
 
-This app was created for Rao Casturi's Fall 2023 Software Engineering Class. The purpose of this app is to provide a free, accessible, and effective alternative for preparing for the Graduate Record Examinations (GRE). 
+The purpose of the OGRE app is to provide a free, accessible, and effective alternative for preparing for the Graduate Record Examinations (GRE). 
 
 ## Built With
 
