@@ -1,16 +1,17 @@
-# Meteorite Landing Data
+# OGRE
 
 ## Overview
 
-This app was created for the Chingu Voyage 9 pre-work. It pulls data from the
-[Nasa Open Data Portal Meteorite Landings API](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh)
+This app was created for Rao Casturi's Fall 2023 Software Engineering Class. 
 
-#### LIVE LINK : https://chingu-meteor-data.netlify.com/
+## Built With
+
+* [![Swift][swift.org]][https://1000logos.net/wp-content/uploads/2020/09/Swift-Logo.png]
+* [![Firebase][firebase.google.com][https://firebase.google.com/static/images/brand-guidelines/logo-standard.png]]
 
 ## Features
 
-- The data is sorted and displayed into a chart, the chart is scrollable in
-  multiple directions to see all the data.
+- 
 
 - Clicking on the Geolocation coordinates launches Google Maps to display the
   geolocation.
